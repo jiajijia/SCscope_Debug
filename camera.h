@@ -1,5 +1,5 @@
 // camera.h : main header file for the CAMERA application
-//
+//coding myself
 
 #if !defined(AFX_CAMERA_H__9DBE77CD_D43C_4BEC_97CF_8C7EF1A4837D__INCLUDED_)
 #define AFX_CAMERA_H__9DBE77CD_D43C_4BEC_97CF_8C7EF1A4837D__INCLUDED_
