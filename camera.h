@@ -1,5 +1,5 @@
 // camera.h : main header file for the CAMERA application
-//
+//coding myself
 
 //head by develpoer on web page
 
